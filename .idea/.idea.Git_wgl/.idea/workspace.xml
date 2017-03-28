@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf5c02e3-e9ce-4b4e-b589-62950bfa9237" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PhotonController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhotonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <marker date="1490702585000" expanded="true" signature="6:78" ph="..." />
+                <marker date="1490702585000" expanded="true" signature="126:719" ph="{...}" />
+                <marker date="1490702585000" expanded="true" signature="175:233" ph="{...}" />
+                <marker date="1490702585000" expanded="true" signature="259:306" ph="{...}" />
+                <marker date="1490702585000" expanded="true" signature="343:390" ph="{...}" />
+                <marker date="1490702585000" expanded="true" signature="415:717" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnityChanControlScriptWithRgidBody.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="70" lean-forward="false" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+              <folding>
+                <marker date="1490702729000" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
+                <marker date="1490702729000" expanded="true" signature="99:137" ph="..." />
+                <marker date="1490702729000" expanded="true" signature="349:6310" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="656:687" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
+                <marker date="1490702729000" expanded="true" signature="1616:1985" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="2056:5547" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="2785:2832" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="2852:2899" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="2938:3258" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="2940:2997" ph="/* スペースキーを入力したら ... */" />
+                <marker date="1490702729000" expanded="true" signature="3044:3254" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3104:3249" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3428:3498" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
+                <marker date="1490702729000" expanded="true" signature="3544:3628" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3597:3624" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3631:3670" ph="/* JUMP中の処理 ... */" />
+                <marker date="1490702729000" expanded="true" signature="3720:4957" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3854:4953" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3906:4873" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="3913:4049" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
+                <marker date="1490702729000" expanded="true" signature="4515:4867" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="4568:4778" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="4778:4860" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="4960:4999" ph="/* IDLE中の処理 ... */" />
+                <marker date="1490702729000" expanded="true" signature="5050:5240" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="5106:5133" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="5198:5236" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="5243:5282" ph="/* REST中の処理 ... */" />
+                <marker date="1490702729000" expanded="true" signature="5333:5544" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="5341:5466" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
+                <marker date="1490702729000" expanded="true" signature="5497:5540" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="5562:6157" ph="{...}" />
+                <marker date="1490702729000" expanded="true" signature="6208:6308" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PhotonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_wgl (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf5c02e3-e9ce-4b4e-b589-62950bfa9237" name="Default" comment="" />
+      <created>1490702041100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490702041100</updated>
+      <workItem from="1490702046513" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="702000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PhotonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1490702585000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1490702585000" expanded="true" signature="126:719" ph="{...}" />
+            <marker date="1490702585000" expanded="true" signature="175:233" ph="{...}" />
+            <marker date="1490702585000" expanded="true" signature="259:306" ph="{...}" />
+            <marker date="1490702585000" expanded="true" signature="343:390" ph="{...}" />
+            <marker date="1490702585000" expanded="true" signature="415:717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="70" lean-forward="false" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+          <folding>
+            <marker date="1490702729000" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
+            <marker date="1490702729000" expanded="true" signature="99:137" ph="..." />
+            <marker date="1490702729000" expanded="true" signature="349:6310" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="656:687" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
+            <marker date="1490702729000" expanded="true" signature="1616:1985" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="2056:5547" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="2785:2832" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="2852:2899" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="2938:3258" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="2940:2997" ph="/* スペースキーを入力したら ... */" />
+            <marker date="1490702729000" expanded="true" signature="3044:3254" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3104:3249" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3428:3498" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
+            <marker date="1490702729000" expanded="true" signature="3544:3628" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3597:3624" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3631:3670" ph="/* JUMP中の処理 ... */" />
+            <marker date="1490702729000" expanded="true" signature="3720:4957" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3854:4953" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3906:4873" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="3913:4049" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
+            <marker date="1490702729000" expanded="true" signature="4515:4867" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="4568:4778" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="4778:4860" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="4960:4999" ph="/* IDLE中の処理 ... */" />
+            <marker date="1490702729000" expanded="true" signature="5050:5240" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="5106:5133" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="5198:5236" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="5243:5282" ph="/* REST中の処理 ... */" />
+            <marker date="1490702729000" expanded="true" signature="5333:5544" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="5341:5466" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
+            <marker date="1490702729000" expanded="true" signature="5497:5540" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="5562:6157" ph="{...}" />
+            <marker date="1490702729000" expanded="true" signature="6208:6308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
